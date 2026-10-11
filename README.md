@@ -4,6 +4,8 @@ A curated catalog of public, legally servable data sources — each annotated wi
 
 **Confidence: High (80%)** that pre-auditing at design time prevents the most common aggregation-license conflicts; the grades themselves are [estimated] and dated.
 
+<p align="center"><img src="docs/demo.gif" alt="demo" width="720"></p>
+
 ## Problem
 
 Free public data sources make aggregators deceptively easy — until redistribution rights, rate etiquette, and privacy-adjacent misuse surface late.
