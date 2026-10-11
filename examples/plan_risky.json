@@ -1,0 +1,1 @@
+{"sources": ["open-meteo", "adsb-exchange"], "use": "aggregate-public"}
